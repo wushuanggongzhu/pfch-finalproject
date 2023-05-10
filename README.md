@@ -4,7 +4,7 @@
 
 Completed for the course INFO 664: Programming for Cultural Heritage in Spring 2023, this project produces a CSV with catalog information for a collection of objects at the Metropolitan Museum of Art. Three Python scripts are used:
 
- 1.) Write a JSON file with the desired object IDs
+ 1.) Write a JSON file with the desired object IDs | pfch-finalproject/chineseobjectIDs.py
 Use Base URL from MET API with specific parameter conditions. In this case, I used "artistOrCulture" and "China." These fields are easily substituted    depending on your interests.
  
  2.) Create a CSV with the Object Data
