@@ -19,7 +19,7 @@ Completed for the course INFO 664: Programming for Cultural Heritage in Spring 2
 ## Instructions
 No API key is required to use the MET API. When updating the code, you may want to reference their Git: https://metmuseum.github.io/
 
-The third script "cleanup_metcsv.py" is specific to this project and data set. You may wish to disregard based on your own data set. 
+The third script "cleanup_metcsv.py" is specific to this project and data set. You may wish to disregard it based on your own data set. 
 
 ## View Visualization
 
